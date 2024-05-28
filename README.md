@@ -14,3 +14,4 @@
 2. 타입
 
    [2.1 타입이란](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP2_TYPE/2.1_%ED%83%80%EC%9E%85%EC%9D%B4%EB%9E%80.md)
+   [2.2 타입스크립트의 타입 시스템](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP2_TYPE/2.2_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
