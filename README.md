@@ -14,3 +14,7 @@
    [2.2 타입스크립트의 타입 시스템](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP2_TYPE/2.2_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C.md)<br/>
    [2.3 원시 타입](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP2_TYPE/2.3_%EC%9B%90%EC%8B%9C%ED%83%80%EC%9E%85.md)<br/>
    [2.4 객체 타입](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP2_TYPE/2.4_%EA%B0%9D%EC%B2%B4%ED%83%80%EC%9E%85.md)<br/>
+
+
+3. 고급타입<br/>
+[3.1 타입스크립트만의 독자적 타입 시스템](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP3_ADVANCED_TYPES/3.1_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A7%8C%EC%9D%98_%EB%8F%85%EC%9E%90%EC%A0%81_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
