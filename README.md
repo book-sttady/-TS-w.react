@@ -18,4 +18,5 @@
 
 3. 고급타입<br/>
    [3.1 타입스크립트만의 독자적 타입 시스템](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP3_ADVANCED_TYPES/3.1_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A7%8C%EC%9D%98_%EB%8F%85%EC%9E%90%EC%A0%81_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C.md)<br/>
-   [3.2 타입 조합](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP3_ADVANCED_TYPES/3.2_%ED%83%80%EC%9E%85%EC%A1%B0%ED%95%A9.md)
+   [3.2 타입 조합](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP3_ADVANCED_TYPES/3.2_%ED%83%80%EC%9E%85%EC%A1%B0%ED%95%A9.md)<br/>
+   [3.3 제네릭 사용법](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP3_ADVANCED_TYPES/3.3_%EC%A0%9C%EB%84%A4%EB%A6%AD_%EC%82%AC%EC%9A%A9%EB%B2%95.md)<br/>
