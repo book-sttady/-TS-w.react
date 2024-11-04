@@ -26,6 +26,6 @@
    [4.3 타입 좁히기 - 식별할 수 있는 유니온(Discriminated Unions)](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP4_%ED%83%80%EC%9E%85%20%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0%EC%A2%81%ED%9E%88%EA%B8%B0/4.3_%ED%83%80%EC%9E%85%EC%A2%81%ED%9E%88%EA%B8%B0_%EC%8B%9D%EB%B3%84%ED%95%A0%EC%88%98%EC%9E%88%EB%8A%94%EC%9C%A0%EB%8B%88%EC%98%A8.md)<br/>
    [4.4 Exhaustiveness Checking으로 정확한 타입 분기 유지하기](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP4_%ED%83%80%EC%9E%85%20%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0%EC%A2%81%ED%9E%88%EA%B8%B0/4.4_Exhaustiveness_Checking%EC%9C%BC%EB%A1%9C_%EC%A0%95%ED%99%95%ED%95%9C_%ED%83%80%EC%9E%85%EB%B6%84%EA%B8%B0_%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0.md)<br/>
 
-5. 타입 활용하기
+5. 타입 활용하기<br/>
    [5.1 조건부 타입](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP5_%ED%83%80%EC%9E%85%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/5.1_%EC%A1%B0%EA%B1%B4%EB%B6%80_%ED%83%80%EC%9E%85.md)<br/>
    [5.2 템플릿 리터럴 타입 활용하기](https://github.com/book-sttady/elegant-typescript-with-react/blob/main/CHAP5_%ED%83%80%EC%9E%85%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/5.2_%ED%85%9C%ED%94%8C%EB%A6%BF%EB%A6%AC%ED%84%B0%EB%9F%B4_%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md)<br/>
